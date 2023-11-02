@@ -1,1 +1,25 @@
 /* Write your CSS here! */
+body {
+    margin: 8px;
+    display: block;
+    background-color: rgb(155, 145, 145);
+}
+
+#mainHeading {
+    text-align: center;
+    font-size: 50px;
+    color: red;
+}
+
+.funParagraph {
+    font-size: 20px;
+    margin-top: 10px;
+    border: black;
+    border-bottom-style: solid;
+    color: green;
+}
+
+footer {
+    font-size: 10px;
+}
+
